@@ -1,0 +1,15 @@
+.content{
+    background-color: aqua;
+    margin-left:auto ;
+    margin-right:auto ;
+}
+
+
+
+.input{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    margin-left:auto ;
+    margin-right:auto ;
+}

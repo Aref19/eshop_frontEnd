@@ -1,0 +1,17 @@
+.log-content{
+    margin: auto;
+    margin-top: 20%;
+    
+ 
+    
+}
+
+.email_lable{
+    position: absolute;
+
+}
+.email_input{
+    position: relative;
+  
+    width: 50%;
+}

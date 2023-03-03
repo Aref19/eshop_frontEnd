@@ -1,0 +1,7 @@
+function CardProduckt(){
+
+    return(
+        <>
+        </>
+    )
+}

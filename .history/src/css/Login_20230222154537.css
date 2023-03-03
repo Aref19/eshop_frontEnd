@@ -1,0 +1,24 @@
+.log-content{
+    margin: auto;
+    margin-top: 20%;
+    
+}
+
+.log{
+    width: 500px;
+    height: 250px;
+    margin: auto;
+    outline: solid 1px black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+
+}
+
+#fname{
+    margin-left: 35px;
+}
+#lname{
+    margin-left: 10px;
+}

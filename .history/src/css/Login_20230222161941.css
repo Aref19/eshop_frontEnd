@@ -1,0 +1,36 @@
+.log-content{
+    margin: auto;
+    margin-top: 20%;
+    background-color: red;
+    
+}
+
+.firstInput{
+    background-color: blue;
+    width: 50%;
+    margin: auto;
+    height: 50px;
+    
+}
+
+.secoundInput{
+    background-color: chartreuse;
+    width: 50%;
+    margin: auto;
+    height: 50px;
+}
+
+.buttons{
+    background-color:bisque;
+    display: flex;
+    justify-content: center;
+    width: 50%;
+    margin: auto;
+}
+
+.logButtoun{
+    margin-right: 10px;
+}
+.regButtoun{
+    margin-left: 10px;
+}

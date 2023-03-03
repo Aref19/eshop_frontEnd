@@ -1,0 +1,22 @@
+.log-content{
+    margin: auto;
+    margin-top: 20%;
+    
+ 
+    
+}
+
+.email_lable{
+    width:70%;
+    position:absolute;
+    border:1px solid red;
+
+}
+.email_input{
+    border:2px solid blue;
+    width:40%;
+	position: relative;
+    top: 20px;
+    margin: auto;
+    
+}

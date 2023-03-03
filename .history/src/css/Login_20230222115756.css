@@ -1,0 +1,16 @@
+.content{
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    margin-top: 50%;
+    margin-bottom: 50%;
+}
+
+
+
+.input{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+
+}

@@ -1,0 +1,22 @@
+.content{
+    width: 500px;
+    height: 250px;
+    margin: auto;
+    outline: solid 1px black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aquamarine;
+
+}
+
+
+
+.input{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    margin-top: 20%;
+
+}

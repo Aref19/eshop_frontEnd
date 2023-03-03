@@ -1,0 +1,13 @@
+.content{
+    background-color: aqua;
+    justify-content: center;
+}
+
+
+
+.input{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+
+}

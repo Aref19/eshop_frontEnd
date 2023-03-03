@@ -1,0 +1,15 @@
+.content{
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    mar
+}
+
+
+
+.input{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+
+}

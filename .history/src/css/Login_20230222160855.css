@@ -1,0 +1,21 @@
+.log-content{
+    margin: auto;
+    margin-top: 20%;
+    background-color: red;
+    
+}
+
+.firstInput{
+    background-color: blue;
+    width: 50%;
+    margin: auto;
+    
+}
+
+.secoundInput{
+    background-color: chartreuse;
+}
+
+.buttons{
+    background-color: coral;
+}

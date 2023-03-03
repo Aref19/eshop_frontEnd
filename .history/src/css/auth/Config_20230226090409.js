@@ -1,0 +1,1 @@
+import configJson fr
